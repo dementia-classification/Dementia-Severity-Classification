@@ -117,4 +117,4 @@ For further details regarding the architecture of the model please consult the p
 
 ## 4. License 
 
-This software is licensed
+This software is licensedunder a Creative Commons Attribution-NonCommercial 4.0 International License.
