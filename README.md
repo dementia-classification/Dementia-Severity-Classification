@@ -24,6 +24,7 @@ XXXXXXX
   * [2.2 Training on a Small Dataset](#22-training-on-a-small-dataset)
   * [2.3 Running on GPU](#23-running-on-gpu)
 * [3. Technical Details](#3-technical-details)
+* [4. License](#4-license)
  
 ## 1. Requirements and Installation  
 
