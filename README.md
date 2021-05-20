@@ -12,8 +12,6 @@ If you use the code in this repository in your work, please cite the following p
 
 XXXXXXX
 
-## Example Input and Corresponding Output
-
 ## Table of Contents
 * [1. Requirements and Installation ](#1-requirements-and-installation)
   * [1.1. Requirements](#11-requirements)
